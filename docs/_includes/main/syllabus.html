@@ -1,0 +1,20 @@
+<section id="syllabus">
+    <h2>{{ page.syllabus.title }}</h2>
+    {{ page.syllabus.content | markdownify }}
+    <ul>
+        {% for module in page.course_modules %}
+        <li class="module box">
+            <h3>{{ module.title }}</h3>
+            <div class="description">{{ module.description | markdownify }}</div>
+            {% if module.subjects %}
+                <ul class="subjects">
+                    {% for subject in module.subjects %}
+                    <li><i class="fa-solid fa-bookmark"></i>{{ subject.title }} ({{ subject.ects }} ECTS)</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            <div class="ects"><i class="fa-solid fa-certificate"></i>{{ module.ects }} ECTS</div>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
