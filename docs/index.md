@@ -6,7 +6,7 @@ main_image: assets/img/course-header.png
 
 register:
   title: Inscríbete
-  url: https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosPosgrado/form_esp?id=1325&fmt=detail
+  url: https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosPosgrado/master?id=1220&fmt=detail
 
 features:
   - title: Duración
