@@ -153,16 +153,16 @@ faq:
     answer: >
       El primer paso es inscribirte en el curso a través del enlace de
       inscripción que encontrarás en esta página. El **periodo de
-      inscripción para el curso 2024-2025 es del 22 de enero de 2024 al
-      28 de septiembre de 2024**. Una vez inscrito, y validada tu
+      inscripción para el curso 2024-2025 es del 09 de julio de 2025 al
+      30 de septiembre de 2025**. Una vez inscrito, y validada tu
       inscripción, se te comunicará por correo electrónico la carta de
-      pago para formalizar **la matrícula, que deberá hacerse del 20 de
-      julio de 2024 al 10 de octubre de 2024**.
+      pago para formalizar **la matrícula, que deberá hacerse del 09 de
+      julio de 2025 al 31 de octubre de 2025**.
   - question: >
       Fantástico, me he inscrito, ¿y ahora qué? ¿Cuándo empieza el
       curso?
     answer: >
-      Del 27 de septiembre de 2024 al 29 de junio de 2025. Y estate
+      Del **29 de septiembre de 2025 al 17 de julio de 2026**. Y estate
       preparado para disfrutarlo.
   - question: ¿Cuál es el horario del curso?
     answer: >
