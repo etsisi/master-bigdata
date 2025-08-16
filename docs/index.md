@@ -120,7 +120,7 @@ course_modules:
 instructors:
   - name: Alberto Díaz Álvarez
     role: Prof. Contratado Doctor
-    image: https://miriadax-wp-uploads-pro.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/02/23094059/alberto-diaz-alvarez-e1684831374306.jpg
+    image: https://eventos.upm.es/_files/_event/_88905/_editorFiles/file/fotos/AlbertoDiazAzul.png
   - name: Arucas Chacón de Frutos
     role: Data Engineer
     image: https://media.licdn.com/dms/image/C5603AQHzvjRuNEHo1Q/profile-displayphoto-shrink_200_200/0/1585063308400?e=2147483647&v=beta&t=r4m7vkeS2-0vS8bsVXLfGsqJr-hV1u_YCQ2fWbVcq_w
